@@ -4,6 +4,6 @@
 int main()
 {
     int value;
-    value = sum(130, 199);
+    value = sum(130, 2005);
     printf("%d\n", value);
 }
