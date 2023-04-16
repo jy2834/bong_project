@@ -6,4 +6,6 @@ int main()
     int value;
     value = sum(130, 2005);
     printf("%d\n", value);
+    scanf("%d",&value);
+    
 }
