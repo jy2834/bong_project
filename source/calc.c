@@ -4,8 +4,8 @@
 int main()
 {
     int value;
-    value = sum(130, 2005);
+    value = sum(1, 1);
     printf("%d\n", value);
-    scanf("%d",&value);
+    
     
 }
